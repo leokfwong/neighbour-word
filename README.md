@@ -1,1 +1,2 @@
-# neighbour-word
+# Neighbour Word
+Documentation under construction.
